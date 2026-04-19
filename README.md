@@ -76,3 +76,11 @@ La persistencia de datos se gestionó mediante MariaDB. Fue fundamental la edici
 * **Curso:** Desarrollo De Software
 * **Instructor:** Ing. Irina Fong  
 * **Fecha de Ejecución:** 16 de abril de 2026" > README.md
+
+## Capturas de Pantalla
+
+### Pantalla de Registro
+![Registro de usuario](Capaturas/Registro.png)
+
+### Pantalla de Login
+![Inicio de sesión](Capaturas/Logi.png)
